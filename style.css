@@ -39,6 +39,7 @@ body {
 }
 
 #display {
+  min-height: 72px;
   text-align: right;
   padding-right: 30px;
   font-size: 60px;
@@ -92,7 +93,7 @@ body {
 
 .zero {
   float: left;
-  width: 50%;
+  width: 25%;
   background: #FF41C9;
 }
 
